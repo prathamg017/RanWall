@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>690529205411-09ou6rsr4o11l5pt07ecjmn3i947g7ff.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.690529205411-09ou6rsr4o11l5pt07ecjmn3i947g7ff</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6QpH5gkTqIdlJbIwl6Gdvs2wPP7LoJkQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>690529205411</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.theWall</string>
+	<key>PROJECT_ID</key>
+	<string>ranwall-611f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ranwall-611f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:690529205411:ios:2089e0170fa9cd2237d316</string>
+</dict>
+</plist>
